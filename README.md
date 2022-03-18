@@ -1,5 +1,5 @@
 # Trabajo-final
-Para entregr nuestro trabajo hemos creado un repositorio en GitHub con la siguiente dirección:
+Para entregr nuestro trabajo hemos creado un repositorio en GitHub con la siguiente dirección: https://github.com/acasasaez/Trabajo-final.git
 
 Para el trabajo final de Estructura de datos y algoritmos 1 se nos pedía elegir un dataset para analizar sus datos y finalmente terminar elaborando una web con los mismos.
 
